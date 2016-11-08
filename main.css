@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: black;
+    margin-top: 15%; 
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+}
+h1{
+    color: red;
+}
+h6{
+    color: blue;
+}
+.project-title{
+    text-align: left;
+    margin-left: 20%
+}
+.item{
+    color: orange;
+    background-color: navy blue;
+}
